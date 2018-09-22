@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\multidimensional arrays1\multidimensional arrays1\bin\Debug\netcoreapp2.1\matrix of palindromes.deps.json
+C:\Users\User\source\repos\multidimensional arrays1\multidimensional arrays1\bin\Debug\netcoreapp2.1\matrix of palindromes.runtimeconfig.json
+C:\Users\User\source\repos\multidimensional arrays1\multidimensional arrays1\bin\Debug\netcoreapp2.1\matrix of palindromes.runtimeconfig.dev.json
+C:\Users\User\source\repos\multidimensional arrays1\multidimensional arrays1\bin\Debug\netcoreapp2.1\matrix of palindromes.dll
+C:\Users\User\source\repos\multidimensional arrays1\multidimensional arrays1\bin\Debug\netcoreapp2.1\matrix of palindromes.pdb
+C:\Users\User\source\repos\multidimensional arrays1\multidimensional arrays1\obj\Debug\netcoreapp2.1\matrix of palindromes.csprojAssemblyReference.cache
+C:\Users\User\source\repos\multidimensional arrays1\multidimensional arrays1\obj\Debug\netcoreapp2.1\matrix of palindromes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\multidimensional arrays1\multidimensional arrays1\obj\Debug\netcoreapp2.1\matrix of palindromes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\multidimensional arrays1\multidimensional arrays1\obj\Debug\netcoreapp2.1\matrix of palindromes.AssemblyInfo.cs
+C:\Users\User\source\repos\multidimensional arrays1\multidimensional arrays1\obj\Debug\netcoreapp2.1\matrix of palindromes.dll
+C:\Users\User\source\repos\multidimensional arrays1\multidimensional arrays1\obj\Debug\netcoreapp2.1\matrix of palindromes.pdb

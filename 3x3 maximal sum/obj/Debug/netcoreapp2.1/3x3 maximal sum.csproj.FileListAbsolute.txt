@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\multidimensional arrays1\3x3 maximal sum\bin\Debug\netcoreapp2.1\3x3 maximal sum.deps.json
+C:\Users\User\source\repos\multidimensional arrays1\3x3 maximal sum\bin\Debug\netcoreapp2.1\3x3 maximal sum.runtimeconfig.json
+C:\Users\User\source\repos\multidimensional arrays1\3x3 maximal sum\bin\Debug\netcoreapp2.1\3x3 maximal sum.runtimeconfig.dev.json
+C:\Users\User\source\repos\multidimensional arrays1\3x3 maximal sum\bin\Debug\netcoreapp2.1\3x3 maximal sum.dll
+C:\Users\User\source\repos\multidimensional arrays1\3x3 maximal sum\bin\Debug\netcoreapp2.1\3x3 maximal sum.pdb
+C:\Users\User\source\repos\multidimensional arrays1\3x3 maximal sum\obj\Debug\netcoreapp2.1\3x3 maximal sum.csprojAssemblyReference.cache
+C:\Users\User\source\repos\multidimensional arrays1\3x3 maximal sum\obj\Debug\netcoreapp2.1\3x3 maximal sum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\multidimensional arrays1\3x3 maximal sum\obj\Debug\netcoreapp2.1\3x3 maximal sum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\multidimensional arrays1\3x3 maximal sum\obj\Debug\netcoreapp2.1\3x3 maximal sum.AssemblyInfo.cs
+C:\Users\User\source\repos\multidimensional arrays1\3x3 maximal sum\obj\Debug\netcoreapp2.1\3x3 maximal sum.dll
+C:\Users\User\source\repos\multidimensional arrays1\3x3 maximal sum\obj\Debug\netcoreapp2.1\3x3 maximal sum.pdb
